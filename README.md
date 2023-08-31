@@ -1,6 +1,11 @@
 # Project: WeLoveMovies
 <img src="images/Screenshot.png" alt="Project Screenshot" width="600">
 
+## Live Frontend and Backend Application 
+Follow this link to the live [WeLoveMovies](https://frontendwelovemovies.onrender.com/) Application on Render.
+
+Below is the guide for the install and setup of this project, you can follow it and get your own server running on render. 
+
 ## Overview/ Instruction for Building Project
 
 This shows the steps required to build this backend project, you can skip to the [Setup and Deployment Guide](#setup-and-deployment-guide).
