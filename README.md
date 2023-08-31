@@ -1,5 +1,5 @@
 # Project: WeLoveMovies
-<img src="images/screenshot.png" alt="Project Screenshot" width="600">
+<img src="images/Screenshot.png" alt="Project Screenshot" width="600">
 
 ## Setup and Deployment Guide
 
