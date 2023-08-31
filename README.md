@@ -1,6 +1,58 @@
 # Project: WeLoveMovies
 <img src="images/Screenshot.png" alt="Project Screenshot" width="600">
 
+## Overview/ Instruction for Building Project from scratch
+[Jump to Setup and Deployment Guide](#setup-and-deployment-guide)
+
+Welcome to the WeLoveMovies project! As a backend developer, your role is to set up a database and create specific routes that will provide users with access to data about movies, theaters, and reviews. This project challenges your skills in building complex servers, working with databases, and following RESTful design principles.
+
+## Project Goals
+
+In this project, you will demonstrate your ability to:
+
+- Install and use common middleware packages.
+- Handle requests through routes.
+- Run tests from the command line.
+- Access relevant information through route and query parameters.
+- Create an error handler for non-existing routes.
+- Build an API following RESTful design principles.
+- Customize a `knexfile.js` file.
+- Establish a database connection with Knex.
+- Write database queries for CRUD routes in an Express server.
+- Retrieve joined and nested data using Knex.
+- Create database migrations using Knex's migration tools.
+- Deploy the backend server to a cloud service.
+
+
+## Goal
+
+Your tasks involve setting up the database and creating routes for the frontend application. Start by making changes to the data tier and then proceed with changes to the application tier using an inside-out development workflow. Detailed information about each table and route is provided in the project documentation.
+
+### Database Tables
+
+- Create five tables for this project. Refer to the `docs/tables/` folder for detailed table information.
+- Generate migrations for each table and run these migrations.
+- Seed data is included in the `./src/db/seeds` folder. Seeds will run correctly if tables are set up as described in previous documents.
+
+### Routes
+
+- Implement five routes for the project. Refer to the `docs/routes/` folder for detailed route information. Note that certain routes return data based on query parameters.
+
+### General Tasks
+
+Ensure the following tasks are complete:
+
+- `app.js` and `server.js` files are correctly configured, with `app.js` exporting the Express application.
+- Utilize the `cors` package to allow frontend requests to reach the backend.
+- Return a 404 error for requests to non-existing routes.
+- Return a 405 error for requests to existing routes with incorrect HTTP methods.
+- All routes should respond with appropriate status codes and use a `data` key in the response.
+
+## Additional Notes
+
+Review the Rubric Requirements for the human-graded part of this project in your Thinkful curriculum page. Deployment of the application (backend and frontend) on Render is required.
+
+
 ## Setup and Deployment Guide
 
 Follow these steps to set up and deploy the WeLoveMovies project on your local machine and on the Render platform.
