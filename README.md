@@ -129,12 +129,12 @@ Follow these steps to set up and deploy the WeLoveMovies project on your local m
 
 2. Create a `.env.production` file in the frontend project's root directory.
 
-3. Add the following line to the `.env.production` file, replacing `<BACKEND_RENDER_URL>` with the URL of your backend service on Render: REACT_APP_API_URL=<BACKEND_RENDER_URL>
+3. Add the following line to the `.env.production` file, replacing `<BACKEND_RENDER_URL>` with the URL of your backend service on Render: `REACT_APP_API_URL=<BACKEND_RENDER_URL>`
 
 4. Navigate to `src/utils/api.js` in the frontend project.
 
 5. Replace the value of `API_BASE_URL` with your backend Render URL:
-const API_BASE_URL = "<BACKEND_RENDER_URL>";
+`const API_BASE_URL = "<BACKEND_RENDER_URL>";`
 
 
 ### 6. Deploy Frontend on Render
