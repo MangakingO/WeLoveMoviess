@@ -1,8 +1,9 @@
 # Project: WeLoveMovies
 <img src="images/Screenshot.png" alt="Project Screenshot" width="600">
 
-## Overview/ Instruction for Building Project from scratch
-[Jump to Setup and Deployment Guide](#setup-and-deployment-guide)
+## Overview/ Instruction for Building Project
+
+This shows the steps required to build this backend project, you can skip to the [Setup and Deployment Guide](#setup-and-deployment-guide).
 
 Welcome to the WeLoveMovies project! As a backend developer, your role is to set up a database and create specific routes that will provide users with access to data about movies, theaters, and reviews. This project challenges your skills in building complex servers, working with databases, and following RESTful design principles.
 
