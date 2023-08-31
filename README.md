@@ -1,5 +1,7 @@
 # Project: WeLoveMovies
 
+![Project Screenshot](images/screenshot.png)
+
 ## Setup and Deployment Guide
 
 Follow these steps to set up and deploy the WeLoveMovies project on your local machine and on the Render platform.
