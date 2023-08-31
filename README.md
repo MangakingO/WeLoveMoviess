@@ -2,7 +2,7 @@
 <img src="images/Screenshot.png" alt="Project Screenshot" width="600">
 
 ## Index
-1. [Live Application](Live-Frontend-and-Backend-Application)
+1. [Live Application](#Live-Frontend-and-Backend-Application)
 2. [Project Objective and Tasks](#project-goals)
 3. [Setup and Deployment Guide](#setup-and-deployment-guide)
 4. [Project Links](#project-links)
